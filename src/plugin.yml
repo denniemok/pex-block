@@ -1,5 +1,5 @@
 name: PexBlock
-main: com.battleasya.PexBlock
+main: com.battleasya.pexblock.PexBlock
 version: 1.0.0
 author: Dennie
 website: http://battleasya.com

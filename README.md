@@ -14,7 +14,7 @@
 <hr>
 
 ### Introduction
-This is a minimalist plugin with exactly one function: makes any PermissionsEx command console-only and blocks the usage of PermissionsEx-related exploits. Nothing fancy or complicated is involved. It only does the simplest task you ask for, and hence the performance.
+This is a minimalist plugin with exactly one function: makes PermissionsEx commands console-only and blocks PermissionsEx-related exploits. Nothing fancy or complicated is involved. It only does the simplest task you ask for, and hence the performance.
 
 Originally being part of [BattleAsya Utility](https://github.com/denniemok/battleasya-utility), this component is now made available separately with enhanced configurability.
 

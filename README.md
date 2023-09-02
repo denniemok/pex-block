@@ -24,6 +24,7 @@ Originally being part of [BattleAsya Utility](https://github.com/denniemok/battl
 - Blocks all PEX commands in-game, including `/pex`, `/permissionsex`, `/permissions:ex`.
 - Fixes bypasses that mix uppercase and lowercase letters in PEX commands (e.g., `/PeX promotE`).
 - Made PEX commands available only for those with the correct permission in-game.
+- Made PEX commands mostly console-only to uphold permission security.
 - Fixes the notorious crash exploit with `/pex promote a a`.
 
 <hr>
